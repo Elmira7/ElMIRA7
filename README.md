@@ -2,10 +2,10 @@
 
 <h1 align="center">Hi there, I'm <a href="" target="_blank">Elmira</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"></h3>
+<h3 align="center">Frontend developer</h3>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent) -->
 
 
 <!--
