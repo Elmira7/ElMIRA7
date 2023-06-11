@@ -5,8 +5,10 @@
 <h3 align="center">Frontend developer💻</h3>
 <!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
  -->
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Elmira7)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
+ 
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Elmira7/Elmira7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
