@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <!-- ### Hi there, I'm 👋 -->
 
 <h1 align="center">Hi there, I'm <a href="" target="_blank">Elmira</a> 
@@ -5,6 +9,10 @@
 <h3 align="center">Frontend developer💻</h3>
 <!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
  -->
+ 
+ ## About me
+ 
+ 
  
  
  
