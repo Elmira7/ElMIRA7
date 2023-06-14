@@ -1,6 +1,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
 </div>
+
+<a href='https://t.me/elmiraculous' target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="mailto:gilfanova-03@inbox.ru" target="blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+
+
+
+
 <!-- ### Hi there, I'm 👋 -->
 
 <h1 align="center">Hi there, I'm <a href="" target="_blank">Elmira</a> 
