@@ -34,10 +34,7 @@
 </p>
 
 
- 
- 
- <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Elmira7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Elmira7" /></a></p><br><br>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmira7&show_icons=true&locale=en&layout=compact" alt="elmira7" /></p>
 
@@ -48,17 +45,7 @@
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elmira7)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+
 **Elmira7/Elmira7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -72,3 +59,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ 
+ <h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Elmira7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Elmira7" /></a></p><br><br>
