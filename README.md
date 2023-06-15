@@ -23,8 +23,7 @@
  
 ### Education 	:man_student:
 - I'm styding in second course of software engineering **<a href='https://kpfu.ru/itis' target="_blank">ITIS Kazan Federal University :mortar_board:</a>**
-- -I have completed a frontend course from  <a href="https://technokratos.com/agona?ysclid=lixqn4g3im930901433">Technocracy</a>
-<!-- - I finished my studies at **<a href='https://academy.yandex.ru/lyceum/' target="_blank">Yandex Lyceum  <img src='https://cdn.icon-icons.com/icons2/699/PNG/512/yandex_cyr_icon-icons.com_61627.png' height=25 weight=15></a>** -->
+- I have completed a frontend course from  **<a href="https://technokratos.com/agona?ysclid=lixqn4g3im930901433">Technocracy</a>**
 ### BIO :notebook:	
 
 
