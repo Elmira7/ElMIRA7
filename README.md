@@ -35,7 +35,7 @@
 
 
 
-#### About my projects :clipboard:
+### About my projects :clipboard:
  
 <!--  
  
@@ -53,6 +53,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
- 
- <h3 align="left">Support:</h3>
+ ### Support:
 <p><a href="https://www.buymeacoffee.com/Elmira7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Elmira7" /></a></p><br><br>
