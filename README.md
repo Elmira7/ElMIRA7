@@ -40,7 +40,7 @@
 
 -**<a href="https://github.com/Elmira7/react-project">EcoRus</a>** educational project on React (in the process)
 
--**<a href="https://github.com/Elmira7/Frontend">SasToo</a>** landing
+-**<a href="https://github.com/Elmira7/Frontend">SaaSto</a>** landing
 
 
 
