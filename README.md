@@ -23,8 +23,8 @@
  
 ### Education 	:man_student:
 - I'm styding in second course of software engineering **<a href='https://kpfu.ru/itis' target="_blank">ITIS Kazan Federal University :mortar_board:</a>**
-- I have completed a frontend course from  **<a href="https://technokratos.com/agona?ysclid=lixqn4g3im930901433">Technocracy</a>**
-### BIO :notebook:	
+- I have completed a Frontend course from  **<a href="https://technokratos.com/agona?ysclid=lixqn4g3im930901433">Technocracy</a>**
+<!-- ### BIO :notebook:	 -->
 
 
  
