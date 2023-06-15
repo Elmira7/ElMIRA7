@@ -36,7 +36,14 @@
 
  
  
- 
+ <h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Elmira7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Elmira7" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmira7&show_icons=true&locale=en&layout=compact" alt="elmira7" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elmira7&show_icons=true&locale=en" alt="elmira7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elmira7&" alt="elmira7" /></p>
  
  
  
