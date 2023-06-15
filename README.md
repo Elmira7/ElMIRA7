@@ -37,7 +37,8 @@
 
 ### About my projects :clipboard:
 -**<a href="https://github.com/Elmira7/rentroom">RentRoom</a>** service for interaction between tenants and landlords (in the process)
- 
+-**<a href="https://github.com/Elmira7/react-project">EcoRus</a>** educational project on React (in the process)
+-**<a href="https://github.com/Elmira7/Frontend">SasToo</a>** landing
 <!--  
  
 
