@@ -19,7 +19,7 @@
 <h3 align="center">Frontend developer💻</h3>
 
  
- ### :woman_technologist: About me
+<!--  ### :woman_technologist: About me -->
  
  
  
