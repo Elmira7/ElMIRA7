@@ -4,10 +4,11 @@
 <a href='https://t.me/elmiraculous' target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="mailto:gilfanova-03@inbox.ru" target="blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
   <br>
- <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=Elmira7&style=flat-square&color=blue" alt=""/>
 
 </div>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
 
 
 
