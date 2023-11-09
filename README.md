@@ -22,7 +22,7 @@
   ## :woman_technologist: About me
  
 ### Education 	:man_student:
-- I'm styding in second course of software engineering **<a href='https://kpfu.ru/itis' target="_blank">ITIS Kazan Federal University :mortar_board:</a>**
+- I'm styding in third course of software engineering **<a href='https://kpfu.ru/itis' target="_blank">ITIS Kazan Federal University :mortar_board:</a>**
 - I have completed a Frontend course from  **<a href="https://technokratos.com/agona?ysclid=lixqn4g3im930901433">Technocracy</a>**
 <!-- ### BIO :notebook:	 -->
 
